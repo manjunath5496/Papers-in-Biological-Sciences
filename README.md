@@ -106,7 +106,7 @@
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(61).pdf" style="text-decoration:none;">Toward a Resolution of the Paradox of Aggressive Displays: II. Behavioral Efference and the Communication of Intentions</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(62).pdf" style="text-decoration:none;">Toward a Resolution of the Paradox of Aggressive Displays: II. Behavioral Efference and the Communication of Intentions</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(62).pdf" style="text-decoration:none;">Effects of Parabiosis of Obese with Diabetes and Normal Mice</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(63).pdf" style="text-decoration:none;">Toward a Resolution of the Paradox of Aggressive Displays: I. Optimal Deceit in the Communication of Fighting Ability</a></li>                              
 
@@ -556,7 +556,8 @@ A Nebraska Bird-Finding Guide </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(307).pdf" style="text-decoration:none;">Behavior of the Australian Musk Duck and Blue-Billed Duck</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(308).pdf" style="text-decoration:none;">The Elusive Musk Ducks </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(309).pdf" style="text-decoration:none;">comparative Behavior and Relationships of the Eiders</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(309).pdf" style="text-decoration:none;">Potent and specific
+genetic interference by double-stranded RNA in Caenorhabditis elegans</a></li>
   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(310).pdf" style="text-decoration:none;">Comparative Behavior and Relationships of the Eiders</a></li>                              
@@ -721,4 +722,34 @@ A Nebraska Bird-Finding Guide </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(399).pdf" style="text-decoration:none;">Time, Temperature and Species Interactions in a Duckweed-Herbivore Mesocosm</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(400).pdf" style="text-decoration:none;">Studies Concerning the Elimination of Experimental Error in Comparative Crop Tests</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(401).pdf" style="text-decoration:none;">Studies on the Ascaris lumbricoides</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(402).pdf" style="text-decoration:none;">STK33 Kinase Activity Is Nonessential in KRAS-Dependent Cancer Cells</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(403).pdf" style="text-decoration:none;">Synthetic Lethal Interaction between Oncogenic KRAS Dependency and STK33 Suppression in Human Cancer Cells</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(404).pdf" style="text-decoration:none;">Leptin activation of Stat3 in the hypothalamus of wild-type and ob/ob mice but not db/db mice </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(405).pdf" style="text-decoration:none;">An epigenetic mutation responsible for natural variation in floral symmetry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(406).pdf" style="text-decoration:none;">Geographical Distribution</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(407).pdf" style="text-decoration:none;">Experiments on Plant Hybridization</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(408).pdf" style="text-decoration:none;">The Nobel Prize in Physiology or Medicine 2012, jointly to John B. Gurdon and Shinya Yamanaka for the discovery that mature cells can be reprogrammed to become pluripotent </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(409).pdf" style="text-decoration:none;">The Developmental Capacity of Nuclei taken from Intestinal Epithelium Cells of Feeding Tadpoles</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(410).pdf" style="text-decoration:none;">Leptin and the Regulation of Body Weight</a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(411).pdf" style="text-decoration:none;">Heredity and Development</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(412).pdf" style="text-decoration:none;">Induction of Pluripotent Stem Cells from Mouse Embryonic and Adult Fibroblast Cultures by Defined Factors </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(413).pdf" style="text-decoration:none;">Inclusion body formation reduces levels of mutant huntingtin and the risk of neuronal death</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(414).pdf" style="text-decoration:none;">Novel Proteinaceous Infectious
+Particles Cause Scrapie</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(415).pdf" style="text-decoration:none;">DNA Synthesis Dependent on Genetic Recombinations: Characterization of a Reaction Catalyzed by Purified Bacteriophage T4 Proteins</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(416).pdf" style="text-decoration:none;">Loss of recent memory after bilateral hippocampal lesions</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(417).pdf" style="text-decoration:none;">Genetical Implications of the Structure of Deoxyribonucleic Acid (1953) </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(418).pdf" style="text-decoration:none;">Molecular Structure of Nucleic Acids (1953) </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(419).pdf" style="text-decoration:none;">The early history of DNA polymerase: a commentary by Arthur Kornberg </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(420).pdf" style="text-decoration:none;">Single-molecule imaging of DNA pairing by RecA reveals a three-dimensional homology search </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(421).pdf" style="text-decoration:none;">Scientific Integrity and Transparency </a></li>
+
+
  </ul>

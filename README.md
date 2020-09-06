@@ -4,184 +4,182 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(1).pdf" style="text-decoration:none;">Forest Rescoring: Faster Decoding with Integrated Language Models</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(1).pdf" style="text-decoration:none;">Range-wide patterns of geographic variation in songs of Golden-crowned Sparrows (Zonotrichia atricapilla)</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(2).pdf" style="text-decoration:none;">Online adaptation strategies for statistical machine translation in post-editing scenarios</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(2).pdf" style="text-decoration:none;">Multimodal signalling in the North American barn swallow: a phenotype network approach</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(3).pdf" style="text-decoration:none;">Cost-sensitive active learning for computer-assisted translation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(4).pdf" style="text-decoration:none;">Target-Text Mediated Interactive Machine Translation</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(5).pdf" style="text-decoration:none;">Dual Inference for Machine Learning</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(6).pdf" style="text-decoration:none;">Exploiting Similarities among Languages for Machine Translation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(7).pdf" style="text-decoration:none;">Neural Machine Translation by Jointly Learning to Align and Translate</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(3).pdf" style="text-decoration:none;">The dynamics of animal social networks: Analytical, conceptual, and theoretical advances</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(4).pdf" style="text-decoration:none;">Landmark use by Clark's nutcrackers (Nucifraga columbiana columbiana): Influence of disorientation and cue rotation on distance and direction estimates</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(5).pdf" style="text-decoration:none;">Memory in Food Caching Animals</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(6).pdf" style="text-decoration:none;">Use of a geometric rule or absolute vectors: Landmark use by Clark's nutcrackers (Nucifraga columbiana columbiana) </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(7).pdf" style="text-decoration:none;">Linking Life Zones, Life History Traits, Ecology, and Spatial Cognition in Four Allopatric Southwestern Seed Caching Corvids</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(8).pdf" style="text-decoration:none;"> Embedding Word Similarity with Neural Machine Translation</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(9).pdf" style="text-decoration:none;">Improving zero-shot learning by mitigating the hubness problem</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(8).pdf" style="text-decoration:none;"> Pigeons and People Select Efficient Routes When Solving a One-Way "Traveling Salesperson" Task</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(9).pdf" style="text-decoration:none;">Serial Reversal Learning and the Evolution of Behavioral Flexibility in Three Species of North American Corvids (Gymnorhinus cyanocephalus, Nucifraga columbiana, Aphelocoma californica californica) </a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(10).pdf" style="text-decoration:none;">Adam: A Method for Stochastic Optimization</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(11).pdf" style="text-decoration:none;">Effective Approaches to Attention-based Neural Machine Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(12).pdf" style="text-decoration:none;">Neural Machine Translation of Rare Words with Subword Units</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(13).pdf" style="text-decoration:none;">Multi-task Sequence to Sequence Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(10).pdf" style="text-decoration:none;">Spatial Heterogeneity, Predator Cognition, and the Evolution of Color Polymorphism in Virtual Prey</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(11).pdf" style="text-decoration:none;">Social play in kakapo (Strigops habroptilus habroptilus) with comparisons to kea (Nestor notabilis notabilis) and kaka (Nestor meridionalis meridionalis)</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(12).pdf" style="text-decoration:none;">Selective Attention, Priming, and Foraging Behavior</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(13).pdf" style="text-decoration:none;">Interference Effects in the Memory for Serially Presented Locations in Clark's Nutcrackers, Nucifraga columbiana</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(14).pdf" style="text-decoration:none;">Improving Neural Machine Translation Models with Monolingual Data</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(14).pdf" style="text-decoration:none;">Does Seed-Caching Experience Affect Spatial Memory Performance by Pinyon Jays?</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(15).pdf" style="text-decoration:none;">Sequence Level Training with Recurrent Neural Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(15).pdf" style="text-decoration:none;">Geographic and ontogenetic variation in the contact calls of the kea</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(16).pdf" style="text-decoration:none;">Multi-Source Neural Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(16).pdf" style="text-decoration:none;">The fifine-grained spatial abilities of three seed-caching corvids</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(17).pdf" style="text-decoration:none;">Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(17).pdf" style="text-decoration:none;">Social Play in Kaka (Nestor meridionalis meridionalis) with Comparisons to Kea (Nestor notabilis notabilis)</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(18).pdf" style="text-decoration:none;">Incorporating Structural Alignment Biases into an Attentional Neural Translation Model</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(18).pdf" style="text-decoration:none;">The Geometry of Foraging Patterns: Components of Thoroughness in Random Searching</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(19).pdf" style="text-decoration:none;">Zero-Resource Translation with Multi-Lingual Neural Machine Translation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(19).pdf" style="text-decoration:none;">Clark's Nutcrackers (Nucifraga columbiana columbiana) and the Effects of Goal-Landmark Distance on Overshadowing</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(20).pdf" style="text-decoration:none;"> An Actor-Critic Algorithm for Sequence Prediction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(20).pdf" style="text-decoration:none;"> Sociality and the Evolution of Intelligence</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(21).pdf" style="text-decoration:none;">Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(22).pdf" style="text-decoration:none;">Neural Machine Translation in Linear Time</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(23).pdf" style="text-decoration:none;">Neural Machine Translation with Reconstruction</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(21).pdf" style="text-decoration:none;">Pinyon jays use transitive inference to predict social dominance</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(22).pdf" style="text-decoration:none;">Social Complexity and Transitive Inference in Corvids</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(23).pdf" style="text-decoration:none;">A Comparative Analysis of Social Play in Birds</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(24).pdf" style="text-decoration:none;">Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Tra</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(24).pdf" style="text-decoration:none;">Searching by Rules: Pigeons' (Columba livia livia) Landmark-Based Search According to Constant Bearing or Constant Distance</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(25).pdf" style="text-decoration:none;">Neural Machine Translation and Sequence-to-sequence Models: A Tutorial</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(26).pdf" style="text-decoration:none;">A Structured Self-attentive Sentence Embedding</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(27).pdf" style="text-decoration:none;">Sequence-to-Sequence Models Can Directly Translate Foreign Speech</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(25).pdf" style="text-decoration:none;">Spatial and Social Cognition in Corvids: An Evolutionary Approach</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(26).pdf" style="text-decoration:none;">Visual Predators Select for Crypticity and Polymorphism in Virtual Prey</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(27).pdf" style="text-decoration:none;">'Neuroecologists' are not made of straw</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(28).pdf" style="text-decoration:none;">Convolutional Sequence to Sequence Learning</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(28).pdf" style="text-decoration:none;">A Comparative Study of Geometric Rule Learning by Nutcrackers (Nucifraga columbiana columbiana), Pigeons (Columba livia livia), and Jackdaws (Corvus monedula)</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(29).pdf" style="text-decoration:none;">A Survey of Cross-lingual Word Embedding Models</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(29).pdf" style="text-decoration:none;">Limited Attention: The Constraint Underlying Search Image</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(30).pdf" style="text-decoration:none;">Dual Supervised Learning</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(30).pdf" style="text-decoration:none;">Cognition as an Independent Variable: Virtual Ecology</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(31).pdf" style="text-decoration:none;">DiSAN: Directional Self-Attention Network for RNN/CNN-Free Language Understanding</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(32).pdf" style="text-decoration:none;">Statistical Machine Translation</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(31).pdf" style="text-decoration:none;">Tests for Cognitive Mapping in Clark's Nutcrackers (Nucifraga columbiana columbiana) </a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(32).pdf" style="text-decoration:none;">Search for a hidden goal by Clark's nutcrackers (Nucifraga columbiana) is more accurate inside than outside a landmark array</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(33).pdf" style="text-decoration:none;">Attentive Convolution:
-Equipping CNNs with RNN-style Attention Mechanisms</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(33).pdf" style="text-decoration:none;">The use of relative and absolute bearings by Clark's nutcrackers, Nucifraga columbiana</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(34).pdf" style="text-decoration:none;">Non-Autoregressive Neural Machine Translation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(34).pdf" style="text-decoration:none;">Review of Evolution and Cognition Cognition, edited by Cecilia Heyes and Ludwig Huber</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(35).pdf" style="text-decoration:none;">Learning to Remember Translation History with a Continuous Cache</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(35).pdf" style="text-decoration:none;">Way-Finding and Landmarks: The Multiple Bearings Hypothesis</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(36).pdf" style="text-decoration:none;">Improved English to Russian Translation by Neural Suffix Prediction</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(36).pdf" style="text-decoration:none;">The Use of Landmarks by Clark's Nutcrackers: First Tests of a New Model</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(37).pdf" style="text-decoration:none;">Asynchronous Bidirectional Decoding for Neural Machine Translation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(38).pdf" style="text-decoration:none;">Reinforced Self-Attention Network: a Hybrid of Hard and Soft Attention for Sequence Modeling</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(39).pdf" style="text-decoration:none;">Zero-Resource Neural Machine Translation with Multi-Agent Communication Game</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(40).pdf" style="text-decoration:none;">Tied Multitask Learning for Neural Speech Translation</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(41).pdf" style="text-decoration:none;">Analyzing Uncertainty in Neural Machine Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(42).pdf" style="text-decoration:none;">Fast Decoding in Sequence Models Using Discrete Latent Variables</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(37).pdf" style="text-decoration:none;">The cost of limited attention in blue jays</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(38).pdf" style="text-decoration:none;">Geometric Rule Learning by Clark's Nutcrackers (Nucifraga columbiana columbiana) </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(39).pdf" style="text-decoration:none;">Searching image in blue jays: Facilitation and interference in sequential priming</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(40).pdf" style="text-decoration:none;">Sociality and Social Learning in Two Species of Corvids: The Pinyon Jay (Gymnorhinus cyanocephalus cyanocephalus) and the Clark's Nutcracker (Nucifraga columbiana columbiana)</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(41).pdf" style="text-decoration:none;">A Method for Estimating Marine Habitat Values Based on Fish Guilds, with Comparisons between Sites in the Southern California Bight</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(42).pdf" style="text-decoration:none;">Preface: Animal Cognition in Nature</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(43).pdf" style="text-decoration:none;">Bi-Directional Block Self-Attention for Fast and Memory-Efficient Sequence Modeling</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(44).pdf" style="text-decoration:none;">SEQ2SEQ-VIS : A Visual Debugging Tool for Sequence-to-Sequence Models</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(45).pdf" style="text-decoration:none;">A Reinforcement Learning Approach to Interactive-Predictive Neural Machine Translation</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(43).pdf" style="text-decoration:none;">The Ecology and Evolution of Spatial Memory in Corvids of the Southwestern USA: The Perplexing Pinyon Jay</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(44).pdf" style="text-decoration:none;">Apostatic selection by blue jays produces balanced polymorphism in virtual prey</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(45).pdf" style="text-decoration:none;">Exercise Capacity of House Wren Nestlings: Chicks Are Not Working as Hard as They Can</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(46).pdf" style="text-decoration:none;">Fusing Recency into Neural Machine Translation with an Inter-Sentence Gate Model</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(46).pdf" style="text-decoration:none;">On the Proper Definition of Cognitive Ethology</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(47).pdf" style="text-decoration:none;">The price of debiasing automatic metrics in natural language evaluation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(48).pdf" style="text-decoration:none;">"Bilingual Expert" Can Find Translation Errors</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(47).pdf" style="text-decoration:none;">The effect of background cuing on prey detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(48).pdf" style="text-decoration:none;">Predicting Cognitive Capacity from Natural History: Examples from Four Species of Corvids</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(49).pdf" style="text-decoration:none;">Neural Machine Translation of Text from Non-Native Speakers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(49).pdf" style="text-decoration:none;">Visual Search for Natural Grains in Pigeons (Columba livia livia): Search Images and Selective Attention</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(50).pdf" style="text-decoration:none;">Learning Multilingual Word Embeddings in Latent Metric Space: A Geometric Approach</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(51).pdf" style="text-decoration:none;">MS-UEdin Submission to the WMT2018 APE Shared Task: Dual-Source Transformer for Automatic Post-Editing</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(52).pdf" style="text-decoration:none;">Pre-training on high-resource speech recognition improves low-resource speech-to-text translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(50).pdf" style="text-decoration:none;">Performance of Four Seed-Caching Corvid Species in Operant Tests of Nonspatial and Spatial Memory</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(51).pdf" style="text-decoration:none;">Performance of Four Seed-Caching Corvid Species in the Radial-Arm Maze Analog</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(52).pdf" style="text-decoration:none;">The effects of requiring different response strategies following caching in Clark's nutcrackers (Nucifraga columbiana)</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(53).pdf" style="text-decoration:none;">FRAGE: Frequency-Agnostic Word Representation </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(53).pdf" style="text-decoration:none;">Effects of Response Strategy and Retention Interval on Performance of Clark's Nutcrackers in a Radial Maze Analogue</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(54).pdf" style="text-decoration:none;">BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(54).pdf" style="text-decoration:none;">Aggressive Motivation in the Midas Cichlid: Evidence for Behavioral Efference</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(55).pdf" style="text-decoration:none;">Latent Variable Model for Multi-modal Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(55).pdf" style="text-decoration:none;">Population Estimates of Kea in Arthur's Pass National Park</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(56).pdf" style="text-decoration:none;">Addressing Word-order Divergence in Multilingual Neural Machine Translation for extremely Low Resource Languages </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(56).pdf" style="text-decoration:none;">Searching Image in the Pigeon: A Test of Three Hypothetical Mechanisms </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(57).pdf" style="text-decoration:none;">Bi-Directional Differentiable Input Reconstruction for Low-Resource Neural Machine Translation </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(57).pdf" style="text-decoration:none;">Sexual Dimorphism in the Kea Nestor notabilis</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(58).pdf" style="text-decoration:none;">Neural Machine Translation with Adequacy-Oriented Learning</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(59).pdf" style="text-decoration:none;">Non-Autoregressive Neural Machine Translation with Enhanced Decoder Input</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(58).pdf" style="text-decoration:none;">Social Behavior and the Ontogeny of Foraging in the Kea (Nestor notabilis)</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(59).pdf" style="text-decoration:none;">Integrating Cognitive Ethology with Cognitive Psychology</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(60).pdf" style="text-decoration:none;">Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(60).pdf" style="text-decoration:none;">Spatial Memory in Seed-Caching Corvids</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(61).pdf" style="text-decoration:none;">Cross-lingual Language Model Pretraining</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(61).pdf" style="text-decoration:none;">Toward a Resolution of the Paradox of Aggressive Displays: II. Behavioral Efference and the Communication of Intentions</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(62).pdf" style="text-decoration:none;">The Evolved Transformer</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(62).pdf" style="text-decoration:none;">Toward a Resolution of the Paradox of Aggressive Displays: II. Behavioral Efference and the Communication of Intentions</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(63).pdf" style="text-decoration:none;">Non-Monotonic Sequential Text Generation</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(63).pdf" style="text-decoration:none;">Toward a Resolution of the Paradox of Aggressive Displays: I. Optimal Deceit in the Communication of Fighting Ability</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(64).pdf" style="text-decoration:none;">Context-Aware Self-Attention Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(64).pdf" style="text-decoration:none;">Lasting responsiveness of a kea (Nestor notabilis) toward its mirror image</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(65).pdf" style="text-decoration:none;">Dynamic Layer Aggregation for Neural Machine Translation with Routing-by-Agreement </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(65).pdf" style="text-decoration:none;">Studies of Learning and Memory in Natural Contexts: Integrating Functional and Mechanistic Approaches to Behavior</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(66).pdf" style="text-decoration:none;">Saliency Learning: Teaching the Model Where to Pay Attention</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(66).pdf" style="text-decoration:none;">The spatial memory of Clark's nutcrackers (Nucifraga columbiana) in an analogue of the radial arm maze</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(67).pdf" style="text-decoration:none;">Star-Transformer</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(67).pdf" style="text-decoration:none;">A Comparative-Ecological Approach to the Study of Learning</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(68).pdf" style="text-decoration:none;">Cross-Lingual Alignment of ContextualWord Embeddings, with Applications to Zero-shot Dependency Parsing</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(68).pdf" style="text-decoration:none;">Diet Choices of Blue Jays (Cyanocitta cristata) as a Function of Time Spent Foraging</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(69).pdf" style="text-decoration:none;">Improving Robustness of Machine Translation with Synthetic Noise</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(69).pdf" style="text-decoration:none;">A Synthetic Approach to the Study of Animal Intelligence</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(70).pdf" style="text-decoration:none;">Lost in Machine Translation: A Method to Reduce Meaning Loss</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(70).pdf" style="text-decoration:none;">Two Modal Action Patterns with a Continuous Temporal Distribution</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(71).pdf" style="text-decoration:none;">Attention is not Explanation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(71).pdf" style="text-decoration:none;">The effects of prey depletion on the patch choice of foraging blue jays (Cyanocitta cristata cristata)</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(72).pdf" style="text-decoration:none;">Non-Autoregressive Machine Translation with Auxiliary Regularization</a></li> 
- 
- 
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(73).pdf" style="text-decoration:none;">Reinforcement Learning based Curriculum Optimization for Neural Machine Translation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(74).pdf" style="text-decoration:none;">Non-Parametric Adaptation for Neural Machine Translation</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(75).pdf" style="text-decoration:none;">Massively Multilingual Neural Machine Translation</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(76).pdf" style="text-decoration:none;">Context-Aware Cross-Lingual Mapping</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(77).pdf" style="text-decoration:none;">On Evaluation of Adversarial Perturbations for Sequence-to-Sequence Models</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(72).pdf" style="text-decoration:none;">Discrimination and generalization of leaf damage by blue jays (Cyanocitta cristata)</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(78).pdf" style="text-decoration:none;">compare-mt: A Tool for Holistic Comparison of Language Generation Systems</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(79).pdf" style="text-decoration:none;">Probing the Need for Visual Context in Multimodal Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(73).pdf" style="text-decoration:none;">Visual Search and Selection of Natural Stimuli in the Pigeon: The Attention Threshold Hypothesis</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(74).pdf" style="text-decoration:none;">The Transmission of Learned Behavior: An Observational Study of Father-Child Interactions During Fishing</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(75).pdf" style="text-decoration:none;">Response strategies in the radial arm maze: Running around in circles</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(76).pdf" style="text-decoration:none;">Spatial memory and the performance of rats and pigeons in the radial-arm maze</a></li>
 
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(80).pdf" style="text-decoration:none;">Selective Attention for Context-aware Neural Machine Translation</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(77).pdf" style="text-decoration:none;">Search Image Formation in the Blue Jay (Cyanocitta cristata cristata)</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(81).pdf" style="text-decoration:none;">Pre-trained Language Model Representations for Language Generation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(82).pdf" style="text-decoration:none;">Competence-based Curriculum Learning for Neural Machine Translation</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(83).pdf" style="text-decoration:none;">Aligning Vector-spaces with Noisy Supervised Lexicons</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(84).pdf" style="text-decoration:none;">Train, Sort, Explain: Learning to Diagnose Translation Models</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(85).pdf" style="text-decoration:none;">Lost in Interpretation:
-Predicting Untranslated Terminology in Simultaneous Interpretation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(86).pdf" style="text-decoration:none;">Learning to Stop in Structured Prediction for Neural Machine Translation</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(87).pdf" style="text-decoration:none;">Extract and Edit: An Alternative to Back-Translation for Unsupervised Neural Machine Translation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(88).pdf" style="text-decoration:none;">Consistency by Agreement in Zero-shot Neural Machine Translation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(89).pdf" style="text-decoration:none;">Density Matching for Bilingual Word Embedding</a></li>
-  
-  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(90).pdf" style="text-decoration:none;">ReWE: RegressingWord Embeddings for Regularization of Neural Machine Translation Systems</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(91).pdf" style="text-decoration:none;">Modeling Recurrence for Transformer</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(92).pdf" style="text-decoration:none;">Information Aggregation for Multi-Head Attention with Routing-by-Agreement</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(93).pdf" style="text-decoration:none;"> Convolutional Self-Attention Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(94).pdf" style="text-decoration:none;">Improving Domain Adaptation Translation with Domain Invariant and Specific Information</a></li> 
-  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(95).pdf" style="text-decoration:none;">Differentiable Sampling with Flexible ReferenceWord Order for Neural Machine Translation</a></li>  
-  
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(96).pdf" style="text-decoration:none;">Revisiting Adversarial Autoencoder for UnsupervisedWord Translation with Cycle Consistency and Improved Training</a></li> 
-  
-  
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(97).pdf" style="text-decoration:none;">An Empirical Investigation of Global and Local Normalization for Recurrent Neural Sequence Models Using a Continuous Relaxation to Beam Search</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(78).pdf" style="text-decoration:none;">Marginal learning-set formation by the crow (Corvus brachyrhynchos)</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(79).pdf" style="text-decoration:none;">Intraproblem retention during learning-set acquisition in bluejays (Cyanocitta eristata)</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(98).pdf" style="text-decoration:none;">Positional Encoding to Control Output Sequence Length</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(80).pdf" style="text-decoration:none;">Tool-Making and Tool-Using in the Northern Blue Jay</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(81).pdf" style="text-decoration:none;">Three-Confifiguration Matching-to-Sample in the Pigeon</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(82).pdf" style="text-decoration:none;">Some Parameters of the Second-Order Conditioning of Fear in Rats</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(83).pdf" style="text-decoration:none;">Neural Circuitry for Target Selection and Action Selection in Animal Behavior</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(84).pdf" style="text-decoration:none;">The Evolution of Color Polymorphism: Crypticity, Searching Images, and Apostatic Selection</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(85).pdf" style="text-decoration:none;">Nontarget Effects—The Achilles' Heel of Biological Control? Retrospective Analyses to Reduce Risk Associated with Biocontrol Introductions</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(86).pdf" style="text-decoration:none;">Ecological Effects of an Insect Introduced for the Biological Control of Weeds</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(87).pdf" style="text-decoration:none;">Forest Sequences in the North Central State</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(88).pdf" style="text-decoration:none;">Microfossils in an Arkansas Peat and their Significance</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(89).pdf" style="text-decoration:none;">A Record of Post-Glacial Climate in Northern Ohio</a></li>
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(99).pdf" style="text-decoration:none;">MASS: Masked Sequence to Sequence Pre-training for Language Generation</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(100).pdf" style="text-decoration:none;">Syntax-Enhanced Neural Machine Translation with Syntax-Aware Word Representations</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(90).pdf" style="text-decoration:none;">Common Fossil Pollen of the Erie Basin</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(91).pdf" style="text-decoration:none;">The Natural Vegetation of Ohio. III. Plant Succession</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(92).pdf" style="text-decoration:none;">The Natural Vegetation of Ohio II. The Prairies</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(93).pdf" style="text-decoration:none;"> The Natural Vegetation of Ohio</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(94).pdf" style="text-decoration:none;">Anthocyan pigments</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(95).pdf" style="text-decoration:none;">Variations in Cytolgoy and Gross Morphology of Taraxacum I. Cytology of Taraxacum Laevigatum</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(96).pdf" style="text-decoration:none;">Variations in Cytology and Gross Morphology of Taraxacum II. Senescence, Rejuvenescence, and Leaf Variation in Taraxacum</a></li> 
+  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(97).pdf" style="text-decoration:none;">Variation in Taraxacum</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(98).pdf" style="text-decoration:none;">Vegetation Mapping</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(99).pdf" style="text-decoration:none;">Amiotic Parthenogenesis in Taraxacum Vulgare (Lam.) Scrk. and Traxacum Laevigatum (Willd.) DC.</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(100).pdf" style="text-decoration:none;">Evaporation and Plant Zones in the Cedar Point Marsh</a></li>  
   
  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(101).pdf" style="text-decoration:none;">Effective Cross-lingual Transfer of Neural Machine Translation Models without Shared Vocabularies</a></li> 
   

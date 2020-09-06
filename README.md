@@ -363,213 +363,210 @@ and Analysis of the Process of Epitope Biosynthesis in Plant Tissues and Cell Cu
   
    <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(200).pdf" style="text-decoration:none;">Purifification of Poly-3-Hydroxybutyrate by Density Gradient Centrifugation in Sodium Bromide</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(201).pdf" style="text-decoration:none;">Modeling Fluency and Faithfulness for Diverse Neural Machine Translation </a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(201).pdf" style="text-decoration:none;">Incorporation of Specifific Fatty Acid Precursors During Spore Germination and Outgrowth in Bacillus thuringiensis </a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(202).pdf" style="text-decoration:none;">Cross-lingual Pre-training Based Transfer for Zero-shot Neural Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(202).pdf" style="text-decoration:none;">Purifification of the Protein Crystal from Bacillus thuringiensis by Zonal Gradient Centrifugation</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(203).pdf" style="text-decoration:none;">Acquiring Knowledge from Pre-trained Model to Neural Machine Translation</a></li> 
- 
- 
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(204).pdf" style="text-decoration:none;">MetaMT, a Meta Learning Method Leveraging Multiple Domain Data for Low Resource Machine Translation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(205).pdf" style="text-decoration:none;">Explicit Sentence Compression for Neural Machine Translation</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(206).pdf" style="text-decoration:none;">Non-autoregressive Machine Translation with Disentangled Context Transformer</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(207).pdf" style="text-decoration:none;">On Layer Normalization in the Transformer Architecture</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(208).pdf" style="text-decoration:none;">Train Large, Then Compress: Rethinking Model Size for Efficient Training and Inference of Transformers</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(203).pdf" style="text-decoration:none;">Absence of Spermine in Filamentous Fungi</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(209).pdf" style="text-decoration:none;">ReZero is All You Need:
-Fast Convergence at Large Depth</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(210).pdf" style="text-decoration:none;">PowerNorm: Rethinking Batch Normalization in Transformers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(204).pdf" style="text-decoration:none;">Lipid Metabolism During Bacterial Growth, Sporulation, and Germination: an Obligate Nutritional Requirement in Bacillus thuringiensis for Compounds That Stimulate Fatty Acid Synthesis</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(205).pdf" style="text-decoration:none;">Lipid Metabolism During Bacterial Growth, Sporulation, and Germination: Differential Synthesis of Individual Branched and Normal-Chain Fatty Acids During Spore Germination and Outgrowth of Bacillus thuringiensis</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(206).pdf" style="text-decoration:none;">Lipid Metabolism During Bacterial Growth, Sporulation, and Germination: Kinetics of Fatty Acid and Macromolecular Synthesis During Spore Germination and Outgrowth of Bacillus thuringiensis</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(207).pdf" style="text-decoration:none;">Separation of Spores and Parasporal Crystals of Bacillus thuringiensis in Gradients of Certain X-Ray Contrasting Agents Separation of Spores and Parasporal Crystals of Bacillus thuringiensis in Gradients of Certain X-Ray Contrasting Agents</a></li>
 
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(211).pdf" style="text-decoration:none;">Learning to Encode Position for Transformer with Continuous Dynamical Model</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(208).pdf" style="text-decoration:none;">Physiology of Sporeforming Bacteria Associated with Insects: Minimal Nutritional Requirements for Growth, Sporulation, and Parasporal Crystal Formation of Bacillus thuringiensis</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(212).pdf" style="text-decoration:none;">Aligned Cross Entropy for Non-Autoregressive Machine Translation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(213).pdf" style="text-decoration:none;">Reducing Gender Bias in Neural Machine Translation as a Domain Adaptation Problem</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(209).pdf" style="text-decoration:none;">Sporulation of Bacillus thuringiensis Without Concurrent Derepression of the Tricarboxylic Acid Cycle</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(210).pdf" style="text-decoration:none;">Physiology of Sporeforming Bacteria Associated with Insects: Radiorespirometric Survey of Carbohydrate Metabolism In the 12 Serotypes of Bacillus thuringiensis</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(214).pdf" style="text-decoration:none;">Pretrained Transformers Improve Out-of-Distribution Robustness</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(215).pdf" style="text-decoration:none;">Speech Translation and the End-to-End Promise: Taking Stock of Where We Are</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(216).pdf" style="text-decoration:none;">Balancing Training for
-Multilingual Neural Machine Translation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(217).pdf" style="text-decoration:none;">Highway Transformer: Self-Gating Enhanced Self-Attentive Networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(211).pdf" style="text-decoration:none;">Control of Pantothenate Accumulation in Agrobacterium tumefaciens</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(212).pdf" style="text-decoration:none;">A Circular Dichroic Study of Cu (II) -Ribonuclease Complexes</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(213).pdf" style="text-decoration:none;">Antigenic Relationships in Seven Strains of Tetrahymena</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(218).pdf" style="text-decoration:none;">Contextual Neural Machine Translation Improves Translation of Cataphoric Pronouns</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(219).pdf" style="text-decoration:none;">Curriculum Pre-training for End-to-End Speech Translation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(220).pdf" style="text-decoration:none;">Knowledge Distillation for Multilingual Unsupervised Neural Machine Translation</a></li>
-  
-  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(221).pdf" style="text-decoration:none;">Improving Massively Multilingual Neural Machine Translation and Zero-Shot Translation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(222).pdf" style="text-decoration:none;">Lexically Constrained Neural Machine Translation with Levenshtein Transformer</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(214).pdf" style="text-decoration:none;">Peptidoglycan Differences in Strains of Bacillus cereus Constitutive and Inducible for Penicillinase Production</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(215).pdf" style="text-decoration:none;">Transferable Drug Resistance Among Enterobacteriaceae Isolated from Human Urinary Tract Infections</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(223).pdf" style="text-decoration:none;">Simultaneous Translation Policies: From Fixed to Adaptive</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(224).pdf" style="text-decoration:none;"> Multiscale Collaborative Deep Models for Neural Machine Translation </a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(225).pdf" style="text-decoration:none;">Towards Transparent and Explainable Attention Models</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(216).pdf" style="text-decoration:none;">Relationship Between Protein and Ribonucleic Acid Synthesis During Outgrowth of Spores of Bacillus cereus</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(217).pdf" style="text-decoration:none;">Lethal Action of Ribonuclease for Thermophilic Bacilli</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(218).pdf" style="text-decoration:none;">Calcium ion requirement for proliferation of bacteriophage φμ-4</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(219).pdf" style="text-decoration:none;">Isolation and preliminary characterization of bacteriophage φμ-4</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(220).pdf" style="text-decoration:none;">Interaction between the parameters of hydrostatic pressure and temperature on aspartase of Escherichia coli</a></li>
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(226).pdf" style="text-decoration:none;">Character-Level Translation with Self-attention</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(227).pdf" style="text-decoration:none;">Selecting Backtranslated Data from Multiple Sources for Improved Neural Machine Translation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(221).pdf" style="text-decoration:none;">Malic dehydrogenase activity at 101 C under hydrostatic pressure</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(222).pdf" style="text-decoration:none;">Some characteristics of a purified heat-stable aldolase</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(223).pdf" style="text-decoration:none;">The Coexistence of Pathogens and Pseudomonads in Soluble Oil Emulsions</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(224).pdf" style="text-decoration:none;"> Pustule Formation by Lactobacilli on Fermented Vegetables </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(225).pdf" style="text-decoration:none;">The Production of 2, 3-Butanediol by Fermentation of Sugar Beet Molasses</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(226).pdf" style="text-decoration:none;">The Growth of Pathogenic Bacteria in Soluble Oil Emulsions</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(227).pdf" style="text-decoration:none;">Riboflavin Production by Molds</a></li> 
   
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(228).pdf" style="text-decoration:none;">Evaluating Robustness to Input Perturbations for Neural Machine Translation</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(228).pdf" style="text-decoration:none;">THE Effects of Oxygen, Carbon Dioxide, and Pressure on Growth in Chilomonas Paramecium and Tetrahymena Geleii Furgason</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(229).pdf" style="text-decoration:none;">Opportunistic Decoding with Timely Correction for Simultaneous Translation</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(229).pdf" style="text-decoration:none;">Sources of Amylase-producing Bacteria</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(230).pdf" style="text-decoration:none;">Hard-Coded Gaussian Attention for Neural Machine Translation</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(230).pdf" style="text-decoration:none;">Thoughts on Quorum Sensing and Fungal Dimorphism</a></li>  
    
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(231).pdf" style="text-decoration:none;">
-ENGINE: Energy-Based Inference Networks for Non-Autoregressive Machine Translation </a></li>
+A Nebraska Bird-Finding Guide </a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(232).pdf" style="text-decoration:none;">Quantifying Attention Flow in Transformers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(232).pdf" style="text-decoration:none;">Addendum to the G. M. Sutton Bibliography</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(233).pdf" style="text-decoration:none;">Improving Non-autoregressive Neural Machine Translation with Monolingual Data</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(234).pdf" style="text-decoration:none;">On the Inference Calibration of Neural Machine Translation</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(235).pdf" style="text-decoration:none;">On the Limitations of Cross-lingual Encoders as Exposed by Reference-Free Machine Translation Evaluation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(236).pdf" style="text-decoration:none;">Using Context in Neural Machine Translation Training Objectives</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(237).pdf" style="text-decoration:none;">Evaluating Explanation Methods for Neural Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(233).pdf" style="text-decoration:none;">Crane Music</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(234).pdf" style="text-decoration:none;">Etho-Ecological Apects of Hybridization in the Tetraonidae</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(235).pdf" style="text-decoration:none;">A Late Miocene Accipitrid (Aves: Accipitriformes) from Nebraska and Its Implications for the Divergence of Old World Vultures</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(236).pdf" style="text-decoration:none;">Use of Nape Tags for Marking Offspring of Precocial Waterbirds</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(237).pdf" style="text-decoration:none;">Group Size and Nest Spacing affect Buggy Creek Virus (Togaviridae: Alphavirus) Infection in Nestling House Sparrows</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(238).pdf" style="text-decoration:none;"> Dynamically Adjusting Transformer Batch Size by Monitoring Gradient Direction Change</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(239).pdf" style="text-decoration:none;">It's Easier to Translate out of English than into it: Measuring Neural Translation Difficulty by Cross-Mutual Information</a></li>                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(240).pdf" style="text-decoration:none;">Unsupervised Multimodal Neural Machine Translation with Pseudo Visual Pivoting</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(241).pdf" style="text-decoration:none;">Does Multi-Encoder Help? A Case Study on Context-Aware Neural Machine Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(242).pdf" style="text-decoration:none;">Successfully Applying the Stabilized Lottery Ticket Hypothesis to the Transformer Architecture</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(243).pdf" style="text-decoration:none;">On Exposure Bias, Hallucination and Domain Shift in Neural Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(238).pdf" style="text-decoration:none;"> Sparrows Use Multiple Status Signals in Winter Social Flocks</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(239).pdf" style="text-decoration:none;">Hosts Improve the Reliability of Chick Recognition by Delaying the Hatching of Brood Parasitic Eggs</a></li>                             
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(240).pdf" style="text-decoration:none;">A Place Called Pahaku</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(241).pdf" style="text-decoration:none;">My Life in Biology: Paul A. Johnsgard</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(242).pdf" style="text-decoration:none;">Communal Breeding: Clever Defense Against Cheats</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(243).pdf" style="text-decoration:none;">Coots Use Hatch Order to Learn to Recognize and Reject Conspecifific Brood Parasitic Chicks</a></li>
 
 
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(244).pdf" style="text-decoration:none;">Leveraging Monolingual Data with Self-Supervision for Multilingual Neural Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(244).pdf" style="text-decoration:none;">Cooperation and competition: nepotistic tolerance and intrasexual aggression in western bluebird winter groups</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(245).pdf" style="text-decoration:none;">Dynamic Programming Encoding for Subword Segmentation in Neural Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(245).pdf" style="text-decoration:none;">A Nebraska Bird-Finding Guide</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(246).pdf" style="text-decoration:none;">Unsupervised Quality Estimation for Neural Machine Translation</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(246).pdf" style="text-decoration:none;">Celebrating Darwin's Legacy: Evolution in the Galapagos Islands and the Great Plains</a></li>   
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(247).pdf" style="text-decoration:none;">Worse WER, but Better BLEU? Leveraging Word Embedding as Intermediate in Multitask End-to-End Speech Translation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(247).pdf" style="text-decoration:none;">Song of the North Wind: A Story of the Snow Goose</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(248).pdf" style="text-decoration:none;">Phone Features Improve Speech Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(248).pdf" style="text-decoration:none;">Four Decades of Christmas Bird Counts in the Great Plains: Ornithological Evidence of a Changing Climate</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(249).pdf" style="text-decoration:none;">Variational Neural Machine Translation with Normalizing Flows</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(250).pdf" style="text-decoration:none;">HAT: Hardware-Aware Transformers for Efficient Natural Language Processing</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(251).pdf" style="text-decoration:none;">Interactive neural machine translation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(249).pdf" style="text-decoration:none;">Cranes of the World in 2008: A Supplement to Crane Music</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(250).pdf" style="text-decoration:none;">Louis A. Fuertes and the Zoological Art of the 1926–1927 Abyssinian Expedition of The Field Museum of Natural History</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(251).pdf" style="text-decoration:none;">Body Weights and Species Distributions of Birds in Nebraska's Central and Western Platte Valley</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(252).pdf" style="text-decoration:none;">Content Word Aware Neural Machine Translation</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(252).pdf" style="text-decoration:none;">Improving the Reliability of Molecular Sexing of Birds Using a W-Specific Marker</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(253).pdf" style="text-decoration:none;">Evaluating Explanation Methods for Neural Machine Translation</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(254).pdf" style="text-decoration:none;">Jointly Masked Sequence-to-Sequence Model for Non-Autoregressive Neural Machine Translation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(255).pdf" style="text-decoration:none;">Learning Source Phrase Representations for Neural Machine Translation</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(253).pdf" style="text-decoration:none;">Songs of the Wild: Temporal and Geographical Distinctions in the Acoustic Properties of the Songs of the Yellow-Breasted Chat</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(254).pdf" style="text-decoration:none;">A Guide to the Natural History of the Central Platte Valley of Nebraska</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(255).pdf" style="text-decoration:none;">A Guide to the Tallgrass Prairies of Eastern Nebraska and Adjacent States</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(256).pdf" style="text-decoration:none;">Location Attention for Extrapolation to Longer Sequences </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(256).pdf" style="text-decoration:none;">The Birds of Nebraska, Revised edition 2007 </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(257).pdf" style="text-decoration:none;">Norm-Based Curriculum Learning for Neural Machine Translation</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(257).pdf" style="text-decoration:none;">Aid to the Identifification of Waterfowl Breastbones, Parts I & II</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(258).pdf" style="text-decoration:none;">Multi-Hypothesis Machine Translation Evaluation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(258).pdf" style="text-decoration:none;">Using molt limits to age Western Bluebirds</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(259).pdf" style="text-decoration:none;">Multimodal Quality Estimation for Machine Translation</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(260).pdf" style="text-decoration:none;">Bilingual Dictionary Based Neural Machine Translation without Using Parallel Sentences</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(259).pdf" style="text-decoration:none;">In Explorers' Footsteps: You can fifind nearly all the birds documented by Lewis and Clark in great refuges on the Great Plains</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(260).pdf" style="text-decoration:none;">Sibley's New Twins: Book Review</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(261).pdf" style="text-decoration:none;">Boosting Neural Machine Translation with Similar Translations</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(261).pdf" style="text-decoration:none;">Nebraska's Sandhill Crane Populations, Past, Present and Future</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(262).pdf" style="text-decoration:none;">End-to-End Neural Word Alignment Outperforms GIZA++</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(262).pdf" style="text-decoration:none;">Migrations of the Imagination: Photographs by Michael Forsberg, Drawings, Sculptures and Quotations by Paul A. Johnsgard, and Additional Works of Art</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(263).pdf" style="text-decoration:none;">Language-aware Interlingua for Multilingual Neural Machine Translation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(263).pdf" style="text-decoration:none;">Comments on Nebraska's Falconiform and Strigiform bird fauna</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(264).pdf" style="text-decoration:none;">Parallel Sentence Mining by Constrained Decoding</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(264).pdf" style="text-decoration:none;">The History of Life in Nebraska: A Time-Travel Adventure</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(265).pdf" style="text-decoration:none;">Self-Attention with Cross-Lingual Position Representation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(265).pdf" style="text-decoration:none;">A Century of Breeding Birds in Nebraska</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(266).pdf" style="text-decoration:none;">"You Sound Just Like Your Father" Commercial Machine Translation Systems Include Stylistic Biases</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(266).pdf" style="text-decoration:none;">Strategy for the Conservation of Non-Game Birds in the State of Nebraska</a></li> 
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(267).pdf" style="text-decoration:none;">MMPE: A Multi-Modal Interface for Post-Editing Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(267).pdf" style="text-decoration:none;">A Century of Ornithology in Nebraska: A Personal View</a></li>
  
   
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(268).pdf" style="text-decoration:none;">Multi-Domain Neural Machine Translation with Word-Level Adaptive Layer-wise Domain Mixing</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(268).pdf" style="text-decoration:none;">Ecogeographic Aspects of Greater Prairie-chicken Leks in Southeastern Nebraska</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(269).pdf" style="text-decoration:none;">A Novel Graph-based Multi-modal Fusion Encoder for Neural Machine Translation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(269).pdf" style="text-decoration:none;">Historic Birds of Lincoln's Salt Basin Wetlands and Nine-mile Prairie</a></li>
   
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(270).pdf" style="text-decoration:none;">A Relaxed Matching Procedure for Unsupervised BLI</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(270).pdf" style="text-decoration:none;">The Age of Birds in Nebraska</a></li>
  
  
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(271).pdf" style="text-decoration:none;">Geometry-aware Domain Adaptation for Unsupervised Alignment of Word Embeddings</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(271).pdf" style="text-decoration:none;">The Ultraviolet Birds of Nebraska</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(272).pdf" style="text-decoration:none;">Learning to Recover from Multi-Modality Errors for Non-Autoregressive Neural Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(272).pdf" style="text-decoration:none;">Marvelous, Mystical, Tropical Trogons</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(273).pdf" style="text-decoration:none;">A Graph-based Coarse-to-fine Method for Unsupervised Bilingual Lexicon Induction</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(274).pdf" style="text-decoration:none;">A Retrieve-and-Rewrite Initialization Method for Unsupervised Machine Translation</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(275).pdf" style="text-decoration:none;">A Simple and Effective Unified Encoder for Document-Level Machine Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(276).pdf" style="text-decoration:none;">Automatic Machine Translation Evaluation using Source Language Inputs and Cross-lingual Language Model</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(277).pdf" style="text-decoration:none;">SimulSpeech: End-to-End Simultaneous Speech to Text Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(273).pdf" style="text-decoration:none;">A Half-Century of Winter Bird Surveys at Lincoln and Scottsbluff, Nebraska</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(274).pdf" style="text-decoration:none;">Endemicity and Regional Biodiversity in Nebraska's Breeding Avifauna</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(275).pdf" style="text-decoration:none;">In Memorium: Charles G. Sibley</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(276).pdf" style="text-decoration:none;">Review of A Guide to the Nests, Eggs, and Nestlings of North American Birds</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(277).pdf" style="text-decoration:none;">Birds of the Cedar Point Biological Station Area, Keith and Garden Counties, Nebraska: Seasonal Occurrence and Breeding Data</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(278).pdf" style="text-decoration:none;"> Modeling Word Formation in English–German Neural Machine Translation</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(279).pdf" style="text-decoration:none;">Multimodal Transformer for Multimodal Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(278).pdf" style="text-decoration:none;"> Daffy but Dapper: A Serious Approach to the Comical-Looking Ruddy Duck</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(279).pdf" style="text-decoration:none;">Beguiled by Birds: A Profifile of Paul Johnsgard</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(280).pdf" style="text-decoration:none;">Tangled up in BLEU: Reevaluating the Evaluation of Automatic Machine Translation Evaluation Metrics </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(281).pdf" style="text-decoration:none;">AdvAug: Robust Adversarial Augmentation for Neural Machine Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(282).pdf" style="text-decoration:none;">Improving Neural Machine Translation with Soft Template Prediction</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(283).pdf" style="text-decoration:none;">Tagged Back-translation Revisited: Why Does It Really Work?</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(280).pdf" style="text-decoration:none;">Nebraska Fauna: American White Pelican </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(281).pdf" style="text-decoration:none;">Notes on Nebraska Fauna: Common Goldeneye</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(282).pdf" style="text-decoration:none;">Buzz-wings</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(283).pdf" style="text-decoration:none;">Lead Poisoning of Sandhill Cranes (Grus canadensis)</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(284).pdf" style="text-decoration:none;">Are we Estimating or Guesstimating Translation Quality?</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(284).pdf" style="text-decoration:none;">Aspects of the Nesting Ecology of Least Terns and Piping Plovers in Central Nebraska</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(285).pdf" style="text-decoration:none;">Highway Transformer: Self-Gating Enhanced Self-Attentive Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(285).pdf" style="text-decoration:none;">Cranes of the World [complete work]</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(286).pdf" style="text-decoration:none;">Classification-Based Self-Learning for Weakly Supervised Bilingual Lexicon Induction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(286).pdf" style="text-decoration:none;">Teton Wildlife: Observations by a Naturalist</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(287).pdf" style="text-decoration:none;">Gender in Danger?
-Evaluating Speech Translation Technology on the MuST-SHE Corpus</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(287).pdf" style="text-decoration:none;">Whooper Recount: A close look at these endangered cranes reveals that, while their numbers are increasing, their rate of increase is actually declining</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(288).pdf" style="text-decoration:none;">In Neural Machine Translation, What Does Transfer Learning Transfer?</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(288).pdf" style="text-decoration:none;">Review of Observations of wildlife</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(289).pdf" style="text-decoration:none;">BLEURT: Learning Robust Metrics for Text Generation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(289).pdf" style="text-decoration:none;">Copulatory Behavior of the American Bittern [Short Communications]</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(290).pdf" style="text-decoration:none;">Addressing Posterior Collapse with Mutual Information for Improved Variational Neural Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(290).pdf" style="text-decoration:none;">Where Have All the Curlews Gone?</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(291).pdf" style="text-decoration:none;">Parallel Corpus Filtering via Pre-trained Language Models</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(292).pdf" style="text-decoration:none;">Sequence to Sequence Learning with Neural Networks</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(293).pdf" style="text-decoration:none;">Dual Learning for Machine Translation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(291).pdf" style="text-decoration:none;">Review of The Pheasants of the World</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(292).pdf" style="text-decoration:none;">The Triumphant Trumpeter: Once reduced to a few bevies, this magnifificent swan is on the road to recovery</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(293).pdf" style="text-decoration:none;">Flight of the Sea Ducks</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(294).pdf" style="text-decoration:none;">Decoding with Value Networks for Neural Machine Translation</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(294).pdf" style="text-decoration:none;">Seventy-five Years of Changes in Mallard-Black Duck Ratios in Eastern North America</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(295).pdf" style="text-decoration:none;">Deliberation Networks: Sequence Generation Beyond One-Pass Decoding</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(296).pdf" style="text-decoration:none;">Attention Is All You Need</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(297).pdf" style="text-decoration:none;">Learned in Translation: Contextualized Word Vectors</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(295).pdf" style="text-decoration:none;">Quail Music: The complex calls of a bird contain clues to its evolution</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(296).pdf" style="text-decoration:none;">Review of Curassows and related birds</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(297).pdf" style="text-decoration:none;">Waterfowl Portraits</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(298).pdf" style="text-decoration:none;">Generative Neural Machine Translation</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(298).pdf" style="text-decoration:none;">Natural and Unnatural Selection in a Wild Goose</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(299).pdf" style="text-decoration:none;">MacNet: Transferring Knowledge from Machine Comprehension to Sequence-to-Sequence Models</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(299).pdf" style="text-decoration:none;">Experimental Hybridization of the New World Quail (Odontophorinae)</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(300).pdf" style="text-decoration:none;">Learning to Teach with Dynamic Loss Functions</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(300).pdf" style="text-decoration:none;">A Summary of Intergeneric New World Quail Hybrids, and a New Intergeneric Hybrid Combination</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(301).pdf" style="text-decoration:none;">Layer-Wise Coordination between Encoder and Decoder for Neural Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(301).pdf" style="text-decoration:none;">The Masked Duck in the United States</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(302).pdf" style="text-decoration:none;">Blockwise Parallel Decoding for Deep Autoregressive Models</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(302).pdf" style="text-decoration:none;">The Evolution of Duck Courtship</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(303).pdf" style="text-decoration:none;">Comparing UnsupervisedWord Translation Methods Step by Step</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(304).pdf" style="text-decoration:none;">Neural Machine Translation with Soft Prototype</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(305).pdf" style="text-decoration:none;">Levenshtein Transformer</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(306).pdf" style="text-decoration:none;">A Latent Morphology Model for Open-Vocabulary Neural Machine Translation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(307).pdf" style="text-decoration:none;">Reinforced Curriculum Learning on Pre-trained Neural Machine Translation Models</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(303).pdf" style="text-decoration:none;">A Review of Parental Carrying of Young by Waterfowl</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(304).pdf" style="text-decoration:none;">Distributional Changes and Interaction between Prairie Chickens and Sharp-Tailed Grouse in the Midwest</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(305).pdf" style="text-decoration:none;">Foraging dives by surface-feeding ducks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(306).pdf" style="text-decoration:none;">Sympatry Changes and Hybridization Incidence in Mallards and Black Ducks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(307).pdf" style="text-decoration:none;">Behavior of the Australian Musk Duck and Blue-Billed Duck</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(308).pdf" style="text-decoration:none;">Alignment by Agreement </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(309).pdf" style="text-decoration:none;">A Study of Translation Edit Rate with Targeted Human Annotation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(308).pdf" style="text-decoration:none;">The Elusive Musk Ducks </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(309).pdf" style="text-decoration:none;">comparative Behavior and Relationships of the Eiders</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(310).pdf" style="text-decoration:none;">Are Transformers universal approximators of sequence-to-sequence functions? </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(311).pdf" style="text-decoration:none;">Ensemble Learning for Multi-Source Neural Machine Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(312).pdf" style="text-decoration:none;">Improving Attention Modeling with Implicit Distortion and Fertility for Machine Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(313).pdf" style="text-decoration:none;">Inducing Bilingual Lexica From Non-Parallel Data With Earth Mover's Distance Regularization</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(310).pdf" style="text-decoration:none;">Comparative Behavior and Relationships of the Eiders</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(311).pdf" style="text-decoration:none;">Paul Johnsgard: Comprehensive Vita and Bibliography</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(312).pdf" style="text-decoration:none;">Heeding the Call of the Sandhill Cranes</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(313).pdf" style="text-decoration:none;">Hybridization & Zoogeographic Patterns in Pheasants</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(314).pdf" style="text-decoration:none;">Modeling Coherence for Neural Machine Translation with Dynamic and Topic Caches</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(314).pdf" style="text-decoration:none;">Inheritance of Behavioral Characters in F2 Mallard x Pintail (Anas platyrhynchos L. x Anas acutas L.) Hybrids</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(315).pdf" style="text-decoration:none;">Improving Neural Machine Translation by Incorporating Hierarchical Subword Features</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(315).pdf" style="text-decoration:none;">Nebraska's Wetlands: Their Wildlife and Ecology</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(316).pdf" style="text-decoration:none;">A Comparison of Transformer and Recurrent Neural Networks on Multilingual Neural Machine Translation</a></li>
 

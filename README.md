@@ -568,103 +568,102 @@ A Nebraska Bird-Finding Guide </a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(315).pdf" style="text-decoration:none;">Nebraska's Wetlands: Their Wildlife and Ecology</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(316).pdf" style="text-decoration:none;">A Comparison of Transformer and Recurrent Neural Networks on Multilingual Neural Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(316).pdf" style="text-decoration:none;">Observations on sound production in the Anatidae</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(317).pdf" style="text-decoration:none;">On Adversarial Examples for Character-Level Neural Machine Translation</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(317).pdf" style="text-decoration:none;">Proximate and ultimate determinants of clutch size in Anatidae</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(318).pdf" style="text-decoration:none;">Leveraging Meta-Embeddings for Bilingual Lexicon Extraction from Specialized Comparable Corpora</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(318).pdf" style="text-decoration:none;">Review of Endangered Birds. Management Techniques for Preserving Threatened Species, ed. Stanley A. Temple</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(319).pdf" style="text-decoration:none;">Refining Source Representations with Relation Networks for Neural Machine Translation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(319).pdf" style="text-decoration:none;">Review of The Island Waterfowl by Milton W. Weller, and The Hawaiian Goose: An Experiment in Conservation by Janet Kear and A. J. Berger</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(320).pdf" style="text-decoration:none;">A Survey of Domain Adaptation for Neural Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(320).pdf" style="text-decoration:none;">Review of Waterfowl in Australia by H. J. Frith</a></li>
 
  
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(321).pdf" style="text-decoration:none;">Incorporating Syntactic Uncertainty in Neural Machine Translation with a Forest-to-Sequence Model</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(321).pdf" style="text-decoration:none;">Sixty-five Years of Whooping Crane Records in Nebraska</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(322).pdf" style="text-decoration:none;">Fast and Accurate Reordering with ITG Transition RNN</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(322).pdf" style="text-decoration:none;">Social Behavior of North American Owls</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(323).pdf" style="text-decoration:none;">Neural Machine Translation with Decoding-History Enhanced Attention</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(324).pdf" style="text-decoration:none;">Variational Attention for Sequence-to-Sequence Models</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(325).pdf" style="text-decoration:none;">Information Aggregation via Dynamic Routing for Sequence Encoding</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(326).pdf" style="text-decoration:none;">Multi-layer Representation Fusion for Neural Machine Translation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(327).pdf" style="text-decoration:none;">Adaptive Weighting for Neural Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(323).pdf" style="text-decoration:none;">Some Observations on Maccoa Duck Behaviour</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(324).pdf" style="text-decoration:none;">Some putative Mandarin Duck hybrids</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(325).pdf" style="text-decoration:none;">The American Wood Quails Odontophorus</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(326).pdf" style="text-decoration:none;">The Breeding Birds of Nebraska</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(327).pdf" style="text-decoration:none;">The Monographic Literature of the Galliformes</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(328).pdf" style="text-decoration:none;"> Double Path Networks for Sequence to Sequence Learning</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(329).pdf" style="text-decoration:none;">Multilingual Neural Machine Translation with Task-Specific Attention</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(328).pdf" style="text-decoration:none;"> The Ornithogeography of the Great Plains States</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(329).pdf" style="text-decoration:none;">The Secretive Shorebirds: Nebraska's Phantom Migrants</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(330).pdf" style="text-decoration:none;">deepQuest: A Framework for Neural-based Quality Estimation</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(331).pdf" style="text-decoration:none;">Sentence Weighting for Neural Machine Translation Domain Adaptation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(332).pdf" style="text-decoration:none;">Neural Machine Translation Incorporating Named Entity</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(333).pdf" style="text-decoration:none;">Deconvolution-Based Global Decoding for Neural Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(330).pdf" style="text-decoration:none;">The taxonomy and relationships of the northern swans</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(331).pdf" style="text-decoration:none;">A Brief Sketch of the Life and Work of Charles Edwin Bessey</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(332).pdf" style="text-decoration:none;">The Chimney-Shaped Stomata of Holacantha emoryi</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(333).pdf" style="text-decoration:none;">The Morphology of the Pine Cone</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(334).pdf" style="text-decoration:none;">KIT Lecture Translator:
-Multilingual Speech Translation with One-Shot Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(334).pdf" style="text-decoration:none;">Reviews of Current Botanical Literature</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(335).pdf" style="text-decoration:none;">HMM-Based Word Alignment in Statistical Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(335).pdf" style="text-decoration:none;">The Modern Conception of the Structure and Classification of Diatoms</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(336).pdf" style="text-decoration:none;">Empirical Analysis of Beam Search Performance Degradation in Neural Sequence Models</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(336).pdf" style="text-decoration:none;">The Phytogeography of Nebraska</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(337).pdf" style="text-decoration:none;">Statistical Approaches to Computer-Assisted Translation</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(337).pdf" style="text-decoration:none;">Phylogeny and Taxonomy of the Angiosperms</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(338).pdf" style="text-decoration:none;">Online Learning for Statistical Machine Translation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(338).pdf" style="text-decoration:none;">Science and Culture</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(339).pdf" style="text-decoration:none;">Online Large-Margin Training for Statistical Machine Translation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(339).pdf" style="text-decoration:none;">Evolution and Classification</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(340).pdf" style="text-decoration:none;"> Indirect-HMM-based Hypothesis Alignment for Combining Outputs from Machine Translation Systems</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(340).pdf" style="text-decoration:none;"> Sixth Annual Report of the Botanist</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(341).pdf" style="text-decoration:none;">Forest-based Translation Rule Extraction</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(342).pdf" style="text-decoration:none;">Recurrent Continuous Translation Models</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(343).pdf" style="text-decoration:none;">Zero-Resource Translation with Multi-Lingual Neural Machine Translation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(341).pdf" style="text-decoration:none;">A Meeting-Place for Two Floras</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(342).pdf" style="text-decoration:none;">A Single Dendrometer</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(343).pdf" style="text-decoration:none;">The Asparagus for Histological Study</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(344).pdf" style="text-decoration:none;">Memory-enhanced Decoder for Neural Machine Translation</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(344).pdf" style="text-decoration:none;">A Sketch of the Progress of Botany in the United States in 1880</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(345).pdf" style="text-decoration:none;">Variational Neural Machine Translation</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(346).pdf" style="text-decoration:none;">Coverage Embedding Models for Neural Machine Translation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(347).pdf" style="text-decoration:none;">An Unsupervised Probability Model for Speech-to-Translation Alignment of Low-Resource Languages</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(345).pdf" style="text-decoration:none;">A Sketch of the Progress of Botany in the United States in the Year 1879</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(346).pdf" style="text-decoration:none;">The Supposed Dimorphism of Lithospermum longiflorum</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(347).pdf" style="text-decoration:none;">Sensitive Stamens in Portulaca</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(348).pdf" style="text-decoration:none;">Sequence-to-Sequence Learning as Beam-Search Optimization</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(348).pdf" style="text-decoration:none;">The Physiology of the Respiration of Fishes in Relation to the Hydrogen Ion Concentration of the Medium</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(349).pdf" style="text-decoration:none;">Does String-Based Neural MT Learn Source Syntax?</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(349).pdf" style="text-decoration:none;">Natural Infections of Tetrathyridia of Mesocestoides Species in Deer Mice, Peromyscus maniculatus, from New Mexico</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(350).pdf" style="text-decoration:none;">Incorporating Discrete Translation Lexicons into Neural Machine Translation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(350).pdf" style="text-decoration:none;">Bolivian Ectoparasites: A Survey of the Fleas of Ctenomys (Rodentia: Ctenomyidae)</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(351).pdf" style="text-decoration:none;">Supervised Attentions for Neural Machine Translation</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(352).pdf" style="text-decoration:none;">Neural Machine Translation with Source-Side Latent Graph Parsing</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(351).pdf" style="text-decoration:none;">Stable cell lines expressing high levels of the herpes simplex virus type 1 LAT are refractory to caspase 3 activation and DNA laddering following cold shock induced apoptosis</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(352).pdf" style="text-decoration:none;">Sequence and annotation of the 314-kb MT325 and the 321-kb FR483 viruses that infect Chlorella Pbi</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(353).pdf" style="text-decoration:none;">Neural Machine Translation with Word Predictions</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(353).pdf" style="text-decoration:none;">Supplementary Data for "Sequence and annotation of the 314-kb MT325 and the 321-kb FR483 viruses that infect Chlorella Pbi": Appendix A: Gene Names m002R through m843L</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(354).pdf" style="text-decoration:none;">Towards Decoding as Continuous Optimisation in Neural Machine Translation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(354).pdf" style="text-decoration:none;">Supplementary Data for "Sequence and annotation of the 314-kb MT325 and the 321-kb FR483 viruses that infect Chlorella Pbi": Appendix B: Gene Names M001L through M807R</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(355).pdf" style="text-decoration:none;">An empirical study on the effectiveness of images in Multimodal Neural Machine Translation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(355).pdf" style="text-decoration:none;">Supplementary Data for "Sequence and annotation of the 314-kb MT325 and the 321-kb FR483 viruses that infect Chlorella Pbi": Appendix C: Gene Names n001L through n849R</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(356).pdf" style="text-decoration:none;">Incorporating Global Visual Features into Attention-Based Neural Machine Translation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(356).pdf" style="text-decoration:none;">Supplementary Data for "Sequence and annotation of the 314-kb MT325 and the 321-kb FR483 viruses that infect Chlorella Pbi": Appendix D: Gene Names N003L through N847R</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(357).pdf" style="text-decoration:none;">Neural Lattice-to-Sequence Models for Uncertain Inputs</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(358).pdf" style="text-decoration:none;">Memory-augmented Neural Machine Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(359).pdf" style="text-decoration:none;">Dynamic Data Selection for Neural Machine Translation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(360).pdf" style="text-decoration:none;">Neural Machine Translation Leveraging Phrase-based Models in a Hybrid Search</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(361).pdf" style="text-decoration:none;">Translating Phrases in Neural Machine Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(362).pdf" style="text-decoration:none;">Towards Bidirectional Hierarchical Representations for Attention-Based Neural Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(357).pdf" style="text-decoration:none;">Sequence and annotation of the 369-kb NY-2A and the 345-kb AR158 viruses that infect Chlorella NC64A</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(358).pdf" style="text-decoration:none;">Supplementary Data for "Sequence and annotation of the 369-kb NY-2A and the 345-kb AR158 viruses that infect Chlorella NC64A": Appendix D: Gene Names C006R – C815L</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(359).pdf" style="text-decoration:none;">Supplementary Data for "Sequence and annotation of the 369-kb NY-2A and the 345-kb AR158 viruses that infect Chlorella NC64A": Appendix A: Gene Names b002R – b797R</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(360).pdf" style="text-decoration:none;">Supplementary Data for "Sequence and annotation of the 369-kb NY-2A and the 345-kb AR158 viruses that infect Chlorella NC64A": Appendix B: Gene Names B001L – B886R</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(361).pdf" style="text-decoration:none;">Supplementary Data for "Sequence and annotation of the 369-kb NY-2A and the 345-kb AR158 viruses that infect Chlorella NC64A": Appendix C: Gene Names c001R – c814L</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(362).pdf" style="text-decoration:none;">OTK18, a zinc-fifinger protein, regulates human immunodeficiency virus type 1 long terminal repeat through two distinct regulatory regions</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(363).pdf" style="text-decoration:none;">Massive Exploration of Neural Machine Translation Architectures</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(364).pdf" style="text-decoration:none;">Learning Translations via Matrix Completion</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(365).pdf" style="text-decoration:none;">Reinforcement Learning for Bandit Neural Machine Translation with Simulated Human Feedback</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(363).pdf" style="text-decoration:none;">Genetic analysis of a novel Alaska barley yellow dwarf virus in the family Luteoviridae</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(364).pdf" style="text-decoration:none;">Genetic structure in natural populations of barley/cereal yellow dwarf virus isolates from Alaska</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(365).pdf" style="text-decoration:none;">Traditional Practices and Exposure to Bodily Fluids in Lusaka, Zambia</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(366).pdf" style="text-decoration:none;">Towards Compact and Fast Neural Machine Translation Using a Combined Method</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(366).pdf" style="text-decoration:none;">Phycodnaviruses: A peek at genetic diversity</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(367).pdf" style="text-decoration:none;">Instance Weighting for Neural Machine Translation Domain Adaptation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(368).pdf" style="text-decoration:none;">Regularization techniques for fine-tuning in neural machine translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(367).pdf" style="text-decoration:none;">A comparative genomic analysis of Chlorella NC64A virus NY-2A and Chlorella Pbi virus MT325 from the family Phycodnaviridae</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(368).pdf" style="text-decoration:none;">Herpes simplex virus type 1 ICP0 localizes in the stromal layer of infected rabbit corneas and resides predominantly in the cytoplasm and/or perinuclear region of rabbit keratocytes</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(369).pdf" style="text-decoration:none;">Source-Side Left-to-Right or Target-Side Left-to-Right? An Empirical Comparison of Two Phrase-Based Decoding Algorithms</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(369).pdf" style="text-decoration:none;">Fast and effifficient generation of inflfluenza A virus like particles from synthetic genes</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(370).pdf" style="text-decoration:none;">Using Target-side Monolingual Data for Neural Machine Translation through Multi-task Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(370).pdf" style="text-decoration:none;">Nested deletion analysis of Wheat streak mosaic virus HC-Pro: Mapping of domains affecting polyprotein processing and eriophyid mite transmission</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(371).pdf" style="text-decoration:none;">Earth Mover's Distance Minimization for Unsupervised Bilingual Lexicon Induction</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(372).pdf" style="text-decoration:none;">Unfolding and Shrinking Neural Machine Translation Ensembles</a></li>
 

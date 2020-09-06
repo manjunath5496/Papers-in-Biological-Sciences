@@ -664,61 +664,61 @@ A Nebraska Bird-Finding Guide </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(369).pdf" style="text-decoration:none;">Fast and effifficient generation of inflfluenza A virus like particles from synthetic genes</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(370).pdf" style="text-decoration:none;">Nested deletion analysis of Wheat streak mosaic virus HC-Pro: Mapping of domains affecting polyprotein processing and eriophyid mite transmission</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(371).pdf" style="text-decoration:none;">Earth Mover's Distance Minimization for Unsupervised Bilingual Lexicon Induction</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(372).pdf" style="text-decoration:none;">Unfolding and Shrinking Neural Machine Translation Ensembles</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(371).pdf" style="text-decoration:none;">Bovine herpesvirus 1 immediate-early protein (bICP0) interacts with the histone acetyltransferase p300, which stimulates productive infection and gC promoter activity</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(372).pdf" style="text-decoration:none;">Atomic force microscopy investigation of virus aggregation and assembly at chemical templates formed by scanned probe nanolithography</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(373).pdf" style="text-decoration:none;">Graph Convolutional Encoders for Syntax-aware Neural Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(373).pdf" style="text-decoration:none;">A Herpes Simplex Virus Type 1 Mutant Expressing a Baculovirus Inhibitor of Apoptosis Gene in Place of Latency-Associated Transcript Has a Wild-Type Reactivation Phenotype in the Mouse</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(374).pdf" style="text-decoration:none;">Trainable Greedy Decoding for Neural Machine Translation </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(374).pdf" style="text-decoration:none;">The Herpes Simplex Virus Type 1 Locus That Encodes the Latency-Associated Transcript Enhances the Frequency of Encephalitis in Male BALB/c Mice </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(375).pdf" style="text-decoration:none;">A Challenge Set Approach to Evaluating Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(375).pdf" style="text-decoration:none;">The Locus Encompassing the Latency-Associated Transcript of Herpes Simplex Virus Type 1 Interferes with and Delays Interferon Expression in Productively Infected Neuroblastoma Cells and Trigeminal Ganglia of Acutely Infected Mice</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(376).pdf" style="text-decoration:none;">Knowledge Distillation for Bilingual Dictionary Induction </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(376).pdf" style="text-decoration:none;">Complete Deletion of Wheat Streak Mosaic Virus HC-Pro: a Null Mutant Is Viable for Systemic Infection</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(377).pdf" style="text-decoration:none;">Deciphering Related Languages </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(377).pdf" style="text-decoration:none;">Plant Virus HC-Pro Is a Determinant of Eriophyid Mite Transmission</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(378).pdf" style="text-decoration:none;">A Study of Style in Machine Translation: Controlling the Formality of Machine Translation Output</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(379).pdf" style="text-decoration:none;">Sharp Models on Dull Hardware: Fast and Accurate Neural Machine Translation Decoding on the CPU</a></li>
-     <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(380).pdf" style="text-decoration:none;">Exploiting Cross-Sentence Context for Neural Machine Translation</a></li>
- 
- 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(378).pdf" style="text-decoration:none;">AIDS and Associated Malignancies</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(379).pdf" style="text-decoration:none;">Chlorella Virus-Encoded Deoxyuridine Triphosphatases Exhibit Different Temperature Optima</a></li>
+     <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(380).pdf" style="text-decoration:none;">Preserved antigenicity of HIV-1 p24 produced and purifified in high yields from plants inoculated with a tobacco mosaic virus (TMV)- derived vector</a></li>
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(381).pdf" style="text-decoration:none;">Neural Machine Translation with Source Dependency Representation</a></li>
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(381).pdf" style="text-decoration:none;">Bovine herpes virus gD protein produced in plants using a recombinant tobacco mosaic virus (TMV) vector possesses authentic antigenicity</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(382).pdf" style="text-decoration:none;">Multi-lingual Common Semantic Space Construction via Cluster-consistentWord Embedding</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(382).pdf" style="text-decoration:none;">Ornithine Decarboxylase Encoded by Chlorella Virus PBCV-1</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(383).pdf" style="text-decoration:none;">Unsupervised MultilingualWord Embeddings</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(383).pdf" style="text-decoration:none;">A Novel Herpes Simplex Virus Type 1 Transcript (AL-RNA) Antisense to the 5′ End of the Latency-Associated Transcript Produces a Protein in Infected Rabbits</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(384).pdf" style="text-decoration:none;">CLUSE: Cross-Lingual Unsupervised Sense Embeddings</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(384).pdf" style="text-decoration:none;">Activation of Caspases and p53 by Bovine Herpesvirus 1 Infection Results in Programmed Cell Death and Effifficient Virus Release</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(385).pdf" style="text-decoration:none;">Improving Cross-LingualWord Embeddings by Meeting in the Middle</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(385).pdf" style="text-decoration:none;">Bovine Herpesvirus Type 1 Induces Cell Death by a Cell Type Dependent Fashion</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(386).pdf" style="text-decoration:none;">A Stable and Effective Learning Strategy for Trainable Greedy Decoding</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(387).pdf" style="text-decoration:none;">Addressing Troublesome Words in Neural Machine Translation</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(388).pdf" style="text-decoration:none;">Top-down Tree Structured Decoding with Syntactic Connections for Neural Machine Translation and Parsing</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(386).pdf" style="text-decoration:none;">Effects Of Gregariousness, Conspicuousness, And Novelty On Blue Jay (Cyanocitta Cristata) Learned Avoidance And Stimulus Generalization Of Unpalatable Prey</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(387).pdf" style="text-decoration:none;">The molecular mechanism of viral transactivator RTA-mediated Kaposi's sarcoma-associated herpesvirus (KSHV) lytic replication</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(388).pdf" style="text-decoration:none;">Detection Methods for the Genus Lysobacter and the Species Lysobacter enzymogenes</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(389).pdf" style="text-decoration:none;">Contextual Parameter Generation for Universal Neural Machine Translation</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(389).pdf" style="text-decoration:none;">Study Of Two Human Myotubularin Homologs (AtMTM1 and AtMTM2) In Arabidopsis</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(390).pdf" style="text-decoration:none;">Back-Translation Sampling by Targeting Difficult Words in Neural Machine Translation</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(391).pdf" style="text-decoration:none;">Multi-Domain Neural Machine Translation with Word-Level Domain Context Discrimination</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(392).pdf" style="text-decoration:none;">A Discriminative Latent-Variable Model for Bilingual Lexicon Induction</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(390).pdf" style="text-decoration:none;">A Novel Protein Arginine Methyltransferase Interacts with the RNA Induced Silencing Complex Component, MUT70, and Is Required For RNA Interference in Chlamydomonas reinhardtii</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(391).pdf" style="text-decoration:none;">Physiology, Regulation, and Pathogenesis of Nitrogen Metabolism in the Opportunistic Fungal Pathogen Candida albicans</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(392).pdf" style="text-decoration:none;">Taxonomic Revision of Species of the Genus Monoecocestus (Cestoda: Anoplocephalidae)</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(393).pdf" style="text-decoration:none;">Non-Adversarial Unsupervised Word Translation</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(393).pdf" style="text-decoration:none;">Sociality and Reconciliation in Monk Parakeets (Myiopsitta monachus)</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(394).pdf" style="text-decoration:none;">Semi-Autoregressive Neural Machine Translation</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(394).pdf" style="text-decoration:none;">Transcription analysis of the chlorovirus Paramecium bursaria chlorella virus-1</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(395).pdf" style="text-decoration:none;">Understanding Back-Translation at Scale</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(395).pdf" style="text-decoration:none;">A Genome-scale Approach to Phylogeny of Ray-finned Fish (Actinopterygii) and Molecular Systematics of Clupeiformes</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(396).pdf" style="text-decoration:none;">NORMA: Neighborhood Sensitive Maps for MultilingualWord Embeddings</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(396).pdf" style="text-decoration:none;">Drosophila melanogaster Starvation Resistance: A Quantitative Genetic and Physiological Investigation in Relationship to Life History Traits</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(397).pdf" style="text-decoration:none;">Adaptive Multi-pass Decoder for Neural Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(397).pdf" style="text-decoration:none;">Molecular systematics and population structure in the North American endemic fish genus Cycleptus (Teleostei: Catostomidae)</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(398).pdf" style="text-decoration:none;">Improving the Transformer Translation Model with Document-Level Context</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(399).pdf" style="text-decoration:none;">MTNT: A Testbed for Machine Translation of Noisy Text</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(400).pdf" style="text-decoration:none;">Why is unsupervised alignment of English embeddings from different algorithms so hard?</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(401).pdf" style="text-decoration:none;">Learning Unsupervised Word Translations Without Adversaries</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(398).pdf" style="text-decoration:none;">Report of a Botanical Exploration of the Sand-hill Region of Central Nebraska made in the summer of 1893</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(399).pdf" style="text-decoration:none;">Time, Temperature and Species Interactions in a Duckweed-Herbivore Mesocosm</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(400).pdf" style="text-decoration:none;">Studies Concerning the Elimination of Experimental Error in Comparative Crop Tests</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Papers-in-Biological-Sciences/blob/master/bs(401).pdf" style="text-decoration:none;">Studies on the Ascaris lumbricoides</a></li>
  </ul>
